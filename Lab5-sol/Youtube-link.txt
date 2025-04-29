@@ -1,0 +1,43 @@
+Task2.....Perfect no
+
+****find no is perfect or not 
+https://youtu.be/l48E4W7XvVY?si=gM08EXQ6HMv6JOal
+
+****using recursion
+https://youtu.be/l48E4W7XvVY?si=gM08EXQ6HMv6JOal
+
+
+Task3...........prime no 
+https://youtu.be/N43II1GRXyU?si=fmvsoosC5Lvg7LtN
+
+
+
+Task1..............fibbonacci
+*****simple
+https://youtu.be/MSCrYjEgiVQ?si=8E5SaViGbeP39E2c
+
+0 1 1 2 3
+0	1	1	2	3
+x	y	z.. x y ko add kiya z aya ab yz ko add krk next no ana 
+	x	y	z jo upr y tha kya bn gya x or jo z tha wo y bn gya tbhi inko plus kiya ans aya 2
+		x	y	z//last two no ko add kr k hi next no ata na aese series bnti 
+x y z is liye aik dosre me shift ki 
+dekhein pehli line me jo y tha kya bn gya x or jo z tha wo y logic b while me yhi lgai
+
+******recursion
+https://youtu.be/L1tkqXCHK-4?si=F867YDb-apKMW0sC
+
+Task2..........Armstrong no
+*********simple 
+https://youtu.be/v5AG8L8XI5c?si=otUNQDPUqamtswLR
+
+video dekhein us mae r=n%10 liya apko pta hai ye kion lyte taak ap last 
+no ko get kr sko 153 no hai pehly apko 3 lyna phir iska cube last no 3 
+hai isko get krne k liye modulus mean remainder 
+3 ly liya baqi kya bachna chahiye 15 baqi kaise get krty thy?
+ khali divide se n/10 is sy apko 15 mily ga 
+phir 15 se apne iska last no chaiye mtlb 5 
+phir 1 or kb tk no get krna jb tk 0 nhi hota 
+same jaise ap no reverse mae krty aik aik no get 
+********using recursion 
+https://youtu.be/wS24G7plm7s?si=CYdA4wEsbjY_Z3b3
